@@ -1,0 +1,2 @@
+print 'ifconfig'
+echo "hrllo"
