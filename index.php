@@ -1,2 +1,1 @@
-print 'ifconfig'
-echo "hrllo"
+hello this is jenkins container
